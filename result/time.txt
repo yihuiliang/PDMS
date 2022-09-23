@@ -1,0 +1,2 @@
+GT01 total time:9.483000 sec
+GT01 total time:9.443000 sec
